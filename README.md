@@ -66,7 +66,6 @@ This model helps identify **credit behavior patterns** across various customer s
 
 ## 📁 Project Files  
 - `credit_data.csv` – Full synthetic dataset  
-- `credit_dataset.ipynb` – Notebook used for dataset generation  
 - `Lasya_credit_project.ipynb` – Main project code notebook (modeling + insights)
 
 ---
